@@ -1,16 +1,16 @@
-<h1 align="center">About me</h1>
+<h1 align="left">About me</h1>
 
 ###
 
-<p align="center">- Cursando Análise e Desenvolvimento de Sistemas<br>- Dev Full Stack</p>
+<p align="left">- Cursando Análise e Desenvolvimento de Sistemas<br>- Dev Full Stack</p>
 
 ###
 
-<h1 align="center">Techs</h1>
+<h1 align="left">Techs</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -38,11 +38,11 @@
 
 ###
 
-<h1 align="center">Social Media</h1>
+<h1 align="left">Social Media</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/andriel-henrique-749353294/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
